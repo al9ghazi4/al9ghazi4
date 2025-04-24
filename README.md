@@ -55,6 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/al9ghazi4/Deduction-lab">Detection Lab</a>
 - SOC Automation Project
 - test project 

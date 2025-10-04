@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/al9ghazi4/Deduction-lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://github.com/al9ghazi4/Deduction-lab">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         |<a href="https://github.com/al9ghazi4/SOC-Automation-">SOC-Automation</a>|
-| Network Analysis — PCAP Investigation         | <a href="https://github.com/al9ghazi4/Network-Analysis-PCAP-Investigation/-">Network-Analysis-PCAP-Investigation</a>|
+| Network Analysis — PCAP Investigation | <a href="https://github.com/al9ghazi4/Network-Analysis-PCAP-Investigation">Network-Analysis-PCAP-Investigation</a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -57,4 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/al9ghazi4/Deduction-lab">Detection Lab</a>
 - <a href="https://github.com/al9ghazi4/SOC-Automation-">SOC-Automation</a>
-- <a href="https://github.com/al9ghazi4/Network-Analysis-PCAP-Investigation/-">Network-Analysis-PCAP-Investigation</a>
+- <a href="https://github.com/al9ghazi4/Network-Analysis-PCAP-Investigation">Network-Analysis-PCAP-Investigation</a>
